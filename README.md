@@ -16,7 +16,8 @@
 - 🌱 I’m currently learning **Node.js, Express, MongoDB**.
 - 👯 I’m looking to collaborate on **open-source projects** and **web applications**.
 - 💬 Ask me about **frontend frameworks, backend technologies, or anything tech!**.
-- 📫 How to reach me: **[harshakabari7@gmail.com](mailto:harshakabari7@gmail.com)**.
+- 📫 How to reach me: [harshakabari7@gmail.com](mailto:harshakabari7@gmail.com)
+
 - ⚡ Fun fact: **I love to explore new technologies and share knowledge!**.
 
 ---
