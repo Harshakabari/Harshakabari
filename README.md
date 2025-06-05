@@ -26,8 +26,8 @@
 - 💻 **Languages:** JavaScript, Python, C++
 - 🌐 **Frontend:** React, HTML, CSS, Tailwind CSS
 - 🛠️ **Backend:** Node.js, Express.js
-- 🗄️ **Database:** MongoDB, MySQL
-- ⚙️ **Tools:** Git, VS Code, Postman, Figma
+- 🗄️ **Database:** MongoDB, PostgreSQL
+- ⚙️ **Tools:** Git, VS Code, Postman
 
 ---
 
