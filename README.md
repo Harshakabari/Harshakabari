@@ -12,8 +12,8 @@
 ---
 
 ## 💡 About Me
-- 🔭 I’m currently working on **awesome projects** in **JavaScript/React/MERN stack**.
-- 🌱 I’m currently learning **Node.js, Express, MongoDB**.
+- 🔭 I’m currently working on **awesome projects** in **JavaScript, React, MERN stack, Node.js, Express, MongoDB**.
+- 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on **open-source projects** and **web applications**.
 - 💬 Ask me about **frontend frameworks, backend technologies, or anything tech!**.
 - 📫 How to reach me: [harshakabari7@gmail.com](mailto:harshakabari7@gmail.com)
@@ -23,10 +23,10 @@
 ---
 
 ## 🛠️ My Tech Stack
-- 💻 **Languages:** JavaScript, Python, C++
-- 🌐 **Frontend:** React, HTML, CSS, Tailwind CSS
+- 💻 **Languages:** JavaScript, Python, C++, Typescript
+- 🌐 **Frontend:** React, HTML, CSS, Tailwind CSS, Bootstrap
 - 🛠️ **Backend:** Node.js, Express.js
-- 🗄️ **Database:** MongoDB, PostgreSQL
+- 🗄️ **Database:** MongoDB, PostgreSQL, Supabase
 - ⚙️ **Tools:** Git, VS Code, Postman
 
 ---
@@ -46,9 +46,9 @@
   <a href="https://www.linkedin.com/in/harshakabari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-<!--   <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://x.com/hars_o5" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a> -->
+  </a>
   <a href="https://harshakabari5.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
