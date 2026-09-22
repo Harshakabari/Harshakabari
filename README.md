@@ -109,34 +109,6 @@
 I enjoy working across the entire product lifecycle and turning ideas into **real, usable products from scratch**.
 
 ---
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://YOUR-GITHUB-STATS-DOMAIN.vercel.app/api?username=Harshakabari&show_icons=true&theme=radical&hide_border=true"
-    alt="Harsh Akabari GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Harshakabari&theme=radical&hide_border=true"
-    alt="Harsh Akabari GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://YOUR-GITHUB-STATS-DOMAIN.vercel.app/api/top-langs/?username=Harshakabari&layout=compact&theme=radical&hide_border=true"
-    alt="Harsh Akabari Top Languages"
-  />
-</p>
-
----
-
 ---
 
 ## 📱 Mobile & Product Development
